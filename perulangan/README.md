@@ -7,3 +7,7 @@ Contoh KPK dari 12 dan 20 adalah 60
 12 = 12, 24, 36, 48, **60**, 72
 
 20 = 20, 40, **60**, 80, 100
+
+## Output Program
+
+![Program](https://raw.githubusercontent.com/blueupcode/alpro_5/master/perulangan/output.png)

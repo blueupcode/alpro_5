@@ -99,3 +99,8 @@ Total SKS Kumulatif = 13
 Total Poin Kumulatif = 39
 
 IPK = (Total Poin Kumulatif) / (Total SKS Kumulatif) = 39 / 13 = 3
+
+## Output Program
+
+![Program](https://raw.githubusercontent.com/blueupcode/alpro_5/master/perulangan-percabangan/output_1.png)
+![Program](https://raw.githubusercontent.com/blueupcode/alpro_5/master/perulangan-percabangan/output_2.png)
