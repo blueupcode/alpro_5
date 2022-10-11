@@ -1,6 +1,6 @@
 # Menghitung Nilai IP dan IPK (Percabangan dan Perulangan)
 
-IPK atau Indeks Prestasi Kumulatif adalah rata-rata nilai kasar berdasarkan nilai huruf yang didapatkan setiap semester. Setiap nilai huruf mempunyai nilai numerik dari 0-4, seperti dibawah
+Buatlah program untuk menghitung IP dan IPK. IPK atau Indeks Prestasi Kumulatif adalah rata-rata nilai kasar berdasarkan nilai huruf yang didapatkan setiap semester. Setiap nilai huruf mempunyai nilai numerik dari 0-4, seperti di bawah:
 
 | Nilai | Bobot |
 |-------|-------|
@@ -10,7 +10,7 @@ IPK atau Indeks Prestasi Kumulatif adalah rata-rata nilai kasar berdasarkan nila
 | D     | 1.0   |
 | E     | 0.0   |
 
-Kemudian terdapat juga istilah SKS atau Satuan Kredit Semester merupakan beban studi pada setiap mata kuliah yang direpresenstasikan dalam bentuk angka. Kita dapat menghitung poin yang didapatkan dari setiap mata kuliah dengan mengalikan bobot dari nilai huruf dengan jumlah SKS.
+Kemudian terdapat juga istilah SKS atau Satuan Kredit Semester merupakan beban studi pada setiap mata kuliah yang direpresentasikan dalam bentuk angka. Kita dapat menghitung poin yang didapatkan dari setiap mata kuliah dengan mengalikan bobot dari nilai huruf dengan jumlah SKS.
 
 Kita dapat menghitung nilai IP dengan rumus ini (Total(SKS x Poin)) / (Total SKS). IP hanya menghitung nilai untuk 1 semester, sedangkan nilai IPK menghitung nilai keseluruhan untuk semua semester. Rumus IPK dapat dinotasikan dengan IPK = (Total Kumulatif (SKS x Poin)) / (Total Kumulatif SKS). Berikut contohnya:
 
@@ -40,7 +40,7 @@ Kita dapat menghitung nilai IP dengan rumus ini (Total(SKS x Poin)) / (Total SKS
     </tr>
     <tr>
       <td>Kimia</td>
-      <td>A = 3.0</td>
+      <td>A = 4.0</td>
       <td>3</td>
       <td>12</td>
     </tr>

@@ -1,6 +1,6 @@
 # Menghitung KPK Dari Dua Buah Bilangan (Perulangan)
 
-KPK atau Kelipatan Persekutuan Terkecil adalah kelipatan terkecil yang sama dari angka pertama dan kedua. Nilai KPK harus habis dibagi dengan angka pertama dan kedua.
+Buatlah program untuk menghitung KPK dari dua buah bilangan. KPK atau Kelipatan Persekutuan Terkecil adalah kelipatan terkecil yang sama dari angka pertama dan kedua. Nilai KPK harus habis dibagi dengan angka pertama dan kedua.
 
 Contoh KPK dari 12 dan 20 adalah 60
 

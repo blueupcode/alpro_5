@@ -6,7 +6,7 @@ K - Keliling
 
 L - Luas
 
-Kemudian gunakan rumus-rumus dibawah untuk menghitung keliling dan luas, lalu tampilkan hasilnya.
+Kemudian gunakan rumus-rumus di bawah untuk menghitung keliling dan luas lingkaran berdasarkan jari-jari, lalu tampilkan hasilnya.
 
 $$ K = {2 \pi r} $$
 
