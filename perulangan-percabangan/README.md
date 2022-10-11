@@ -2,11 +2,13 @@
 
 IPK atau Indeks Prestasi Kumulatif adalah rata-rata nilai kasar berdasarkan nilai huruf yang didapatkan setiap semester. Setiap nilai huruf mempunyai nilai numerik dari 0-4, seperti dibawah
 
-A = 4.0
-B = 3.0
-C = 2.0
-D = 1.0
-E = 0.0
+| Nilai | Bobot |
+|-------|-------|
+| A     | 4.0   |
+| B     | 3.0   |
+| C     | 2.0   |
+| D     | 1.0   |
+| E     | 0.0   |
 
 Kemudian terdapat juga istilah SKS atau Satuan Kredit Semester merupakan beban studi pada setiap mata kuliah yang direpresenstasikan dalam bentuk angka. Kita dapat menghitung poin yang didapatkan dari setiap mata kuliah dengan mengalikan bobot dari nilai huruf dengan jumlah SKS.
 
